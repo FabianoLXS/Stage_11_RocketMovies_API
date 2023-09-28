@@ -9,7 +9,7 @@
     "migrate": "knex migrate:latest",
     "test": "jest --watch"
   },
-  "author": "Madalena Machado Rocha",
+  "author": "Fabiano Luiz Xavier dos Santos",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
